@@ -1,0 +1,1 @@
+case class MovieRate(userid:String,itermid:String,rate:Double,time:Long)

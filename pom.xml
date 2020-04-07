@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.it.like</groupId>
+    <artifactId>SparkTestPro</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.1</version>
+    <modules>
+        <module>SecondDay</module>
+        <module>thirdDay</module>
+        <module>forthDay</module>
+        <module>fifthDay</module>
+        <module>sixthDay</module>
+        <module>sixthDay_kafka_011</module>
+        <module>SeventhDay</module>
+    </modules>
+
+</project>
